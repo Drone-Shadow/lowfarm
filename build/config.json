@@ -34,6 +34,17 @@
       "opacity": 1.0,
       "attribution": "Survey © Drone Shadow",
       "visible": false
+    },
+    "Contour": {
+      "name": "Contours-Nov2025",
+      "url": "https://lowfarm.b-cdn.net/Contours/{z}/{x}/{y}.png",
+      "tms": false,
+      "minZoom": 12,
+      "maxZoom": 22,
+      "opacity": 1.0,
+      "attribution": "Survey © Drone Shadow",
+      "visible": false
     }
+
   }
 }
