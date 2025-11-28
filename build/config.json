@@ -25,6 +25,18 @@
       "attribution": "Survey © Drone Shadow",
       "visible": true
     },
+
+     "hillshade": {
+      "name": "H/Shde-Nov'25",
+      "url": "https://lowfarm.b-cdn.net/hillshade/{z}/{x}/{y}.png",
+      "tms": false,
+      "minZoom": 12,
+      "maxZoom": 20,
+      "opacity": 1.0,
+      "attribution": "Survey © Drone Shadow",
+      "visible": false
+    },
+
     "dem": {
       "name": "DEM-Nov2025",
       "url": "https://lowfarm.b-cdn.net/DEM Tiles/{z}/{x}/{y}.png",
