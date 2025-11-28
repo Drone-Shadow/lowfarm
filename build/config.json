@@ -26,9 +26,9 @@
       "visible": true
     },
 
-     "hillshade": {
-      "name": "Hillshade-Nov2025",
-      "url": "https://lowfarm.b-cdn.net/hillshade/{z}/{x}/{y}.png",
+    "dem": {
+      "name": "DEM-Nov2025",
+      "url": "https://lowfarm.b-cdn.net/DEM Tiles/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 12,
       "maxZoom": 20,
@@ -37,9 +37,9 @@
       "visible": false
     },
 
-    "dem": {
-      "name": "DEM-Nov2025",
-      "url": "https://lowfarm.b-cdn.net/DEM Tiles/{z}/{x}/{y}.png",
+     "hillshade": {
+      "name": "Hillshade-Nov2025",
+      "url": "https://lowfarm.b-cdn.net/hillshade/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 12,
       "maxZoom": 20,
