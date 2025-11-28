@@ -20,7 +20,7 @@
       "url": "https://lowfarm.b-cdn.net/tiles/orthomosaic_2025/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 12,
-      "maxZoom": 22,
+      "maxZoom": 20,
       "opacity": 1.0,
       "attribution": "Survey © Drone Shadow",
       "visible": true
@@ -30,7 +30,7 @@
       "url": "https://lowfarm.b-cdn.net/DEM Tiles/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 12,
-      "maxZoom": 22,
+      "maxZoom": 20,
       "opacity": 1.0,
       "attribution": "Survey © Drone Shadow",
       "visible": false
@@ -40,7 +40,7 @@
       "url": "https://lowfarm.b-cdn.net/Contours/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 12,
-      "maxZoom": 22,
+      "maxZoom": 20,
       "opacity": 1.0,
       "attribution": "Survey © Drone Shadow",
       "visible": false
