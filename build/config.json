@@ -17,7 +17,7 @@
   "overlays": {
     "orthomosaic": {
       "name": "Ortho-Nov2025",
-      "url": "https://lowfarm.b-cdn.net/tiles/orthomosaic_2025/{z}/{x}/{y}.png",
+      "url": "https://lowfarm.b-cdn.net/lowfarm/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 14,
       "maxZoom": 20,
