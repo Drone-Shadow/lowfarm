@@ -28,7 +28,7 @@
 
      "hillshade": {
       "name": "Hillshade-Nov2025",
-      "url": "https://lowfarm.b-cdn.net/Hillshade/{z}/{x}/{y}.png",
+      "url": "https://lowfarm.b-cdn.net/h_shade/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 12,
       "maxZoom": 20,
