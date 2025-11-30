@@ -27,7 +27,7 @@
     },
 
     "dem": {
-      "name": "DEM-Nov2025",
+      "name": "DSM-Nov2025",
       "url": "https://lowfarm.b-cdn.net/DEM Tiles/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 14,
