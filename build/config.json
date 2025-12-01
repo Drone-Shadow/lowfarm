@@ -17,7 +17,7 @@
   "overlays": {
     "orthomosaic": {
       "name": "Ortho-Nov2025",
-      "url": "https://lowfarm.b-cdn.net/lowfarm/{z}/{x}/{y}.png",
+      "url": "https://lowfarm.b-cdn.net/low_farm_anonymised/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 14,
       "maxZoom": 20,
@@ -39,7 +39,7 @@
 
      "hillshade": {
       "name": "Hillshade-Nov2025",
-      "url": "https://lowfarm.b-cdn.net/hillshade/{z}/{x}/{y}.png",
+      "url": "https://lowfarm.b-cdn.net/low_farm_anonymised_hillshade/{z}/{x}/{y}.png",
       "tms": false,
       "minZoom": 14,
       "maxZoom": 20,
